@@ -1,0 +1,8 @@
+REACT_APP_API_URL=http://localhost:5000/api/v1/
+REACT_APP_TMDB_URL=https://api.themoviedb.org/3/
+REACT_APP_TMDB_KEY=eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1YzgxM2Y2YjMzZTUyMGE0MjE3ZmNlZDJhZjBjYzE1YiIsInN1YiI6IjY1ZWIzNzA2YzE1YjU1MDE3YmY3OWZhYiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.kR6c7ypqOqZX4anK4HMIKz6D8Rz5c3cJqgeC9kWS_ow
+MONGODB_URL=mongodb+srv://your_username:your_password@cluster0.mongodb.net/moviedb
+PORT=5000
+TOKEN_SECRET=your_secret_key123
+TMDB_BASE_URL=https://api.themoviedb.org/3/
+TMDB_KEY=5c813f6b33e520a4217fced2af0cc15b

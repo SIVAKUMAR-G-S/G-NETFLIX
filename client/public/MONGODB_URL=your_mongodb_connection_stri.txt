@@ -1,0 +1,5 @@
+MONGODB_URL=your_mongodb_connection_string
+PORT=5000
+TOKEN_SECRET=your_token_secret
+TMDB_BASE_URL=https://api.themoviedb.org/3/
+TMDB_KEY=your_tmdb_api_key
